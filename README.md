@@ -4,11 +4,11 @@
 
 ## 1. Background and Motivation
 
-In my opinion, Purkinje-image–based measurement does provide a compact and optically efficient solution for estimating dynamic ocular accommodation in smart glass systems.  
+Purkinje-image–based measurement does provide a compact and optically efficient solution for estimating dynamic ocular accommodation in smart glass systems.  
 
-Recent work demonstrated that accurate measurement of human eye dynamic accommodation and binocular convergence is achieved by combining Purkinje reflections with machine learning (MLP) to some extent.  
+The paper already demonstrated that accurate measurement of human eye dynamic accommodation and binocular convergence is achieved by combining Purkinje reflections with machine learning (MLP) to some extent.  
 
-We plan to extend that work with 3 perspectives, including developing AI algorithms for calibration, data training, and analysis in a smart glass system.
+Currently, We plan to extend that work with 3 perspectives, including developing AI algorithms for calibration, data training, and analysis in a smart glass system.
 
 ---
 
